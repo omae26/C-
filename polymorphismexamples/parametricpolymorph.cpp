@@ -1,3 +1,4 @@
+/* parametric polymorphism */
 #include <iostream>
 using namespace std;
 class Geeks{
