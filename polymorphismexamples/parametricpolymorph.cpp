@@ -1,4 +1,6 @@
 /* parametric polymorphism */
+/* It is a way of defining types orf functions that are generic over other types*/
+/* It is also know as compile time polymorphism*/
 #include <iostream>
 using namespace std;
 class Geeks{
