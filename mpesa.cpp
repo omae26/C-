@@ -1,3 +1,5 @@
+// This program is a simple mpesa application that allows user toacces various mpesa services 
+
 #include <iostream>
 #include <string>
 #include <iomanip>
