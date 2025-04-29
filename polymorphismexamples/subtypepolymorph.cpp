@@ -1,4 +1,6 @@
 /* subtype polymrphism */
+/* It is the ability touse base class pointers and references*/
+/* It is also known as run-time polymorphism*/
 #include <iostream>
 using namespace std;
 class A {
