@@ -1,4 +1,6 @@
-/* cohersion polymorphism */
+/* coercion polymorphism */
+/* Also known as implicit or explicit casting*/
+/* It happens when another object or a primitive is cast into another object type or primitive type*/
 #include<iostream>
 using namespace std;
 
