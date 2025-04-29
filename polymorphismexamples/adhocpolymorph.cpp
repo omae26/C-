@@ -1,6 +1,7 @@
 /* Polymorphism is the ability of being able to assign a different meaning or usage to something in different contexts and 
 the property of an object responds to a query according to its type. */
 /* adhoc polymorphism*/ 
+/* It allows functions to work or to appera to work on several differnt types*/
 #include <iostream>
 using namespace std;
 class brian{
