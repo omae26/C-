@@ -10,7 +10,7 @@ int main() {
 
     // Prompt the user to enter the student's name
     cout << "Enter student name: ";
-    getline(cin, name); // Read the full name including spaces
+    getline(cin, name); // Read the full name including the spaces
 
     // Prompt the user to enter the student's age
     cout << "Enter age: ";
