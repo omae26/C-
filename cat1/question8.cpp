@@ -1,5 +1,7 @@
-#include <iostream> // Include the iostream library for input and output operations
-using namespace std; // Use the standard namespace to avoid prefixing std::
+#include <iostream> 
+// Include the iostream library for input and output operations
+using namespace std;
+ // Use the standard namespace to avoid prefixing std::
 
 // Entry point of the program
 int main() {
