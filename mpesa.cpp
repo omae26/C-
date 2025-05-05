@@ -1,4 +1,4 @@
-// This program is a simple mpesa application that allows user toacces various mpesa services 
+// This program is a simple mpesa application that allows user to acces various mpesa services 
 
 #include <iostream>
 #include <string>
