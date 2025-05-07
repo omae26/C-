@@ -6,7 +6,7 @@ int main() {
     float marks[5], total = 0, average;
     char grade;
 
-    // Input marks for 5 subjects
+ // Input marks for 5 subjects
     cout << "Enter marks for 5 subjects (out of 100):\n";
     for (int i = 0; i < 5; i++) {
         cout << "Subject " << i + 1 << ": ";
