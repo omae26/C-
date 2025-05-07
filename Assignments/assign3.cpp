@@ -6,7 +6,7 @@ int main() {
     string pin = "1234";          // Default PIN
     string enteredPin;
     double balance = 10000.0;     // Starting balance
-    int choice;
+    int choice; 
 
     // Welcome Screen
     cout << "==============================" << endl;
