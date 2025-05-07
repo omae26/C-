@@ -10,6 +10,7 @@ protected:
     bool availabilityStatus;
 
 public:
+
     // Constructor
     Book(string id, string t, string a, string g) 
         : bookID(id), title(t), author(a), genre(g), availabilityStatus(true) {}
